@@ -1,0 +1,40 @@
+
+[
+    { "key": "1",
+        "name": "Fundamentals of Plant-Based Nutrition Course",
+        "img": "images/fit.png", 
+        "shortDescription" : "This course offers practical, research-based information on different models of plant-based eating & how to apply them",
+        "longDescription" : "For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress. For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress. For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress"
+    },
+    { "key": "2",
+        "name": "Coaching Skills for Everyday Life Course",
+        "img": "images/coaching.png", 
+        "shortDescription" : "Learn how to transform your mindset and many areas of your life using key 'coaching' skills and techniques.",
+        "longDescription" : "For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress. For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress. For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress"
+    },
+    { "key": "3",
+        "name": "Personalised Sports Nutrition Course",
+        "img": "images/nutrition.png", 
+        "shortDescription" : "Learn how peak performance cannot be achieved without feeding the body optimum health and addressing imbalances",
+        "longDescription" : "For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress. For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress. For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress"
+    },
+    { "key": "4",
+        "name": "Stress Management Course",
+        "img": "images/pressure.png", 
+        "shortDescription" : "For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress",
+        "longDescription" : "For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress. For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress. For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress"
+    },
+    { "key": "5",
+        "name": "Simple Steps to: Eating Well",
+        "img": "images/eat.png", 
+        "shortDescription" : "Sort the nutrition facts from fads and receive skills and tools to apply your new evidence based knowledge to your life",
+        "longDescription" : "For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress. For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress. For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress"
+    },
+    { "key": "6",
+        "name": "Stay Well This Winter",
+        "img": "images/winter.jpg", 
+        "shortDescription" : "This free course is designed to help you support your health, and the health of those you love, naturally this Winter.",
+        "longDescription" : "For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress. For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress. For anybody who wants to learn more about what stress really is, how it affects the mind and body and what can be done to prevent, manage and control stress"
+        
+    }
+]
