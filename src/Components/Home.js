@@ -29,7 +29,7 @@ const Home = () => {
             <Link to="/login" className="bg-info p-2 rounded m-5 text-white text-bold ">Start Now</Link>
             
             </div>
-            <img className="banner-img rounded p-5" src="/Images/health.jpg"></img>
+            <img className="banner-img rounded p-5" src="/health.jpg"></img>
             </div>
             <div className="banner-container">
                 <div className="bg-warning mx-2 p-4">
@@ -58,9 +58,9 @@ const Home = () => {
        <div className=" second-container m-5 ">
            <div className="p-5 mr-5">
                <h1 className="font-weight-light ">Our mission is to provide practical, innovative and evidence-based health and nutrition courses.</h1>
-               <p>Choose from our range of part-time in class & online academically accredited health and nutrition courses based on the latest integrative healthcare models.</p>
+               <p>Choose from our range of part-time in class and online academically accredited health and nutrition courses based on the latest integrative healthcare models.</p>
            </div>
-           <img className="second-img border rounded mt-5 ml-5" src="/Images/science.jpg"></img>
+           <img className="second-img border rounded mt-5 ml-5" src="/science.jpg"></img>
        </div>
 
 
