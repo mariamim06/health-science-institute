@@ -5,7 +5,7 @@
 We have been providing high quality, practical, innovative and evidence-based short courses in nutrition, lifestyle management and coaching for over 15 years. We offer courses that are suitable for those wishing to improve their own health and wellbeing as well as CPD courses for those wishing to expand their professional skills.
 
 ### Website link
-To know more about the zoo, click on the link below
+To know more about the institution, click on the link below
 
 https://health-institution.web.app/Home
 
